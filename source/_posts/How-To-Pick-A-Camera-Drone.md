@@ -15,18 +15,18 @@ This week Skytango hosts a particular guest post by Paul Archer, photographer, d
 
 There are many methods for getting yourself in to the hobby of flying and taking beautiful imagery on the way and graduating to flying and shooting professionally.
 
-But if you want to accomplish it right and not lose a couple of money in the procedure…you better have some notes.
+But if you want to accomplish it right and not lose a couple of money in the procedure you better have some notes.
 
-I’ve not only experienced your shoes but also made a whole lot of mistakes on the way!  But what’s even more important is you know the essential principles of why is an excellent camera drone.
+I've not only experienced your shoes but also made a whole lot of mistakes on the way!  But what's even more important is you know the essential principles of why is an excellent camera drone.
 
-The infographic below will illustrate in greater detail what I’m discussing (you additionally have the option of checking out my top 10 10 camera drones immediately).
+The infographic below will illustrate in greater detail what I'm discussing (you additionally have the option of checking out my top 10 10 camera drones immediately).
 
-Before taking a look at the infographic, here’s a brief rundown on what We find most significant of all:
+Before taking a look at the infographic, here's a brief rundown on what We find most significant of all:
 
 Battery life
 Obviously very important to staying long more than enough in the air to fully capture the shots you want.
 
- - The battery lifestyle of 20+ a few minutes in a few good camera drones the following is usually sufficient, but if that’s insufficient, you can definitely get yourself a second battery.
+ - The battery lifestyle of 20+ a few minutes in a few good camera drones the following is usually sufficient, but if that's insufficient, you can definitely get yourself a second battery.
  - In my experience as a marriage videographer, I had to just hang on in the air a couple of minutes for everyone to assemble for an image or for the brides to get out of the church. Having more than enough battery lifestyle was life-saving.
 
 Flight modes
@@ -41,7 +41,7 @@ While underlined in the infographic, my favourite modes are
 The image you can capture simply rotating around an object is a lot more impressive than it sounds.
 
 Camera quality and resolution
-The drones we’re discussing are actually flying cameras, so this should be an essential topic.
+The drones we're discussing are actually flying cameras, so this should be an essential topic.
 
  - Image stabilization is of great importance, be it in the type of a gimbal or digital stabilization (I favor gimbal)
  - In conditions of resolution, I more often than not shoot in 2.7k, that i find to be the perfect balance between your detail-lacking Total HD and the hard-to-edit 4k.
@@ -55,9 +55,9 @@ The to begin its kind to permit untethered flight to the degree, this waiver may
 
 CNN is one of the most innovative media companies working with drones for journalism and newsgathering. In 2016, they also established a focused drone unit to fully integrate aerial imagery and reporting across their systems and platforms.
 
-The “Reasonableness Approach” developed by CNN and Vantage Robotics established conditions whereby numerous factors were considered prior to the FAA granted the waiver. These factors are the operators safe record of use, safety top features of the craft and exhaustive test out info, as CNN explains within their press release.
+The "Reasonableness Approach" developed by CNN and Vantage Robotics established conditions whereby numerous factors were considered prior to the FAA granted the waiver. These factors are the operators safe record of use, safety top features of the craft and exhaustive test out info, as CNN explains within their press release.
 
-“We are delighted that Vantage was able to function with CNN to provide and establish the safety circumstance for the Snap to the FAA”,
+"We are delighted that Vantage was able to function with CNN to provide and establish the safety circumstance for the Snap to the FAA",
 explained Tobin Fisher, CEO of Vantage Robotics.
 
 The waiver to Part 107 (Tiny Unmanned Aircraft Regulations) pertains to the utilization of the Vantage Snap UAS, a frangible, 1.37-pound aircraft designed especially with crowd safety at heart.
@@ -68,14 +68,14 @@ Former US presidential advisor and lawyer Lisa Ellman of Hogan Lovells, the firm
 
 She believes this new legislation could have broader implications within the industry:
 
-“CNN’s latest waiver represents an essential development for the industrial drone industry most importantly. The FAA’s willingness to approve reasonable waiver requests can be a solid step in the proper direction as we look for to bring the advantages of industrial drones to the American persons.”,
+CNN's latest waiver represents an essential development for the industrial drone industry most importantly. The FAA's willingness to approve reasonable waiver requests can be a solid step in the proper direction as we look for to bring the advantages of industrial drones to the American persons.
 
 Ellman is a strong advocate of professional drone use found in the U.S. and feels U.S. legislation still has a method to go before the industry can catch up with countries like Japan, which includes allowed the commercial use of drones for days gone by 20 years already.
 
 In a broader sense, this regulatory step gets the probable to bring the strategies of companies such as for example Amazon, eBay and actually regular delivery companies closer to fruition.
 
-Just what exactly might this mean for the smaller, independent drone pilots? Very well, probably not a whole whole lot at this time as this reasonableness way puts a lot of pounds on the user’s background.
+Just what exactly might this mean for the smaller, independent drone pilots? Very well, probably not a whole whole lot at this time as this reasonableness way puts a lot of pounds on the user's background.
 
-However, with the inventory industry and other customers of drone footage significantly demanding the footage they purchase be accompanied by full documentation and legal permissions, it won’t be long before pilots will earn their reputations for safeness and compliance.
+However, with the inventory industry and other customers of drone footage significantly demanding the footage they purchase be accompanied by full documentation and legal permissions, it won't be long before pilots will earn their reputations for safeness and compliance.
 
 Exciting times. Watch this space.
