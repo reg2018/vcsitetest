@@ -85,8 +85,8 @@ The DJI Mavic Air drone features four Quickshot modes that could already be on t
 
 DJI Spark drone. But DJI added the boomerang method, that looks incredibly cinematic, and the asteroid method, that combines standard filmmaking with photography.?
 
-360° and Tiny World Photos
-With the DJI Mavic Air drone, you may take 32MP 360° photos within minutes.
+360 and Tiny World Photos
+With the DJI Mavic Air drone, you may take 32MP 360 photos within minutes.
 
 Just one tap in the smartphone permits the mode, and the drone takes a row of pics and automatically stitches them collectively right after.
 
