@@ -20,7 +20,7 @@ It simply uses the drones atmosphere pressure sensors, while not holding the pos
 
 That finally signifies that if a wind gust hits the drone, it'll drift with the wind - or in the event that you forget about your remote controller's stay, the drone won't immediately come to rest, but fly on for many meters.
 
-Don’t worry, using the ATTI mode is pretty easy - here you find a whole guide and also a video guide of mine.
+Don't worry, using the ATTI mode is pretty easy - here you find a whole guide and also a video guide of mine.
 
 Manual PoIs
 Pilots who can circle objects manually even while always keeping them in the center of the frame, tend to be more experienced.
