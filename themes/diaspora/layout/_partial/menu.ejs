@@ -1,0 +1,24 @@
+<div class="nav">
+<ul class="menu" text-align="center">
+	<li>
+	<img src="/img/logo1.png" alt="logo" height="300" width="299">
+	</li>
+	</ul>
+    <ul id="menu-menu" class="menu">
+        <% for (var i in theme.menu){ %>
+        <li class="<%- theme.menu[i].indexOf('http') > -1 ? " " : "pview" %> menu-item menu-item-type-post_type menu-item-object-page">
+            <%- link_to(url_for(theme.menu[i].lastIndexOf('/') > 0 ? theme.menu[i] : theme.menu[i] + '/'), i, {external: true})%>
+        </li>
+		
+        <%}%>
+	
+    </ul>
+	
+	
+    <p id="copyright">
+        &copy; <%= date(new Date(), 'YYYY') %> <%= config.author || config.title %>.
+        Powered by Venezuelai Szolidaritas
+        Theme <%- link_to("http://www.venezuelai-szolidaritas.org/", "Venezuelai Szolidaritas", {external: true})%>
+        by Venezuelai Szolidaritas
+    </p>
+</div>
