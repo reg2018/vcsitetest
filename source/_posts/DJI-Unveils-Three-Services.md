@@ -70,7 +70,7 @@ battery, the Osmo Cell 2 lets you share your story.
 
 Stable and Smooth Moves
 The Osmo Mobile 2 was created to film on the run. Just select your subject matter and ActiveTrack will follow,
-using built-in sensors and a brushless motors to make sure stability. Whether it’s little vibrations from
+using built-in sensors and a brushless motors to make sure stability. Whether it's little vibrations from
 a skateboard or more extreme instability from jumping, this smartphone stabilizer stays steady.
 
 Time in Motion
@@ -106,7 +106,7 @@ Battery Life
 15hours1
 
 Dimensions
-72 × 113 × 295mm
+72 X 113 X 295mm
 
 DJI Tello
 As DJI is specialized in high-end consumer and even specialist drones, it had been a surprise to hear that their most recent drone model is a gadget drone.
