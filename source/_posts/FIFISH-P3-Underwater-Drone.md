@@ -1,5 +1,5 @@
 ---
-title: Review: FIFISH P3 Underwater Drone ROV, A Key to Mysterious World
+title: Review FIFISH P3 Underwater Drone ROV, A Key to Mysterious World
 date: 2018-10-16 8:12:00
 tags: Drone Review
 cover: http://bluehorsedigital.co/wp-content/uploads/2018/09/20180930113106.jpg
