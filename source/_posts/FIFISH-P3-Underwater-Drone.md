@@ -11,7 +11,6 @@ As we discover more and more about our earth, the desire to explore the undersea
 
 “I've really wanted an ROV for a long time and I spent a long time looking. This is the one I decided on for a bunch of reasons. It has been much more useful and much more interesting than I expected.”, Dean Cropp told us. As a BBC producer, Dean is an ACS award-winning director of photography. His work as a Water director of photography for the 3D documentary Storm Surfers (2012) earned him a nomination for an AACTA award.
 
-![](http://bluehorsedigital.co/wp-content/uploads/2018/09/20180930113106.jpg)
 
 “QYSEA FIFISH P3 Underwater drone, amazing piece of equipment!” said Dean, “This has done some hardcore open-ocean diving. It has probably done 50 maybe 60 dives on our expedition. We really used it, many hours of operation. That’s why I really know it's a good piece of equipment.”
 
